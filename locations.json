@@ -1,0 +1,54 @@
+{
+    "places": [
+        "park",
+        "beach",
+        "bank",
+        "grocery store",
+        "construction",
+        "swimming pool",
+        "militatry zone",
+        "computer club",
+        "bar",
+        "desert",
+        "mountain peak",
+        "gym",
+        "labratory",
+        "church",
+        "cave",
+        "shopping center",
+        "forest",
+        "museum"
+    ],
+    "building": [
+        "bathroom",
+        "rooftop",
+        "kitcen",
+        "living room",
+        "basement",
+        "hallway",
+        "garage",
+        "office"
+    ],
+    "countries": [
+        "kazakhstan",
+        "Russia",
+        "USA",
+        "China",
+        "Kanada",
+        "Germany",
+        "England",
+        "Japan",
+        "Korea",
+        "Italy",
+        "Brazil"
+    ],
+    "transport": [
+        "bus",
+        "plane",
+        "submarine",
+        "motorcycle",
+        "bycicle",
+        "helicopter",
+        "car"
+    ]
+}
